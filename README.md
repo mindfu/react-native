@@ -1,6 +1,6 @@
 # Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Expo Cli]([https://docs.expo.dev/workflow/expo-cli/]).
 
 In the project directory, you can run:
 

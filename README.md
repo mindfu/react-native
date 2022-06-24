@@ -1,4 +1,4 @@
-# Getting Started
+🚀 Quick Start
 
 This project was bootstrapped with [Expo Cli](https://docs.expo.dev/workflow/expo-cli/).
 
